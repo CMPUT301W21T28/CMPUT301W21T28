@@ -1,5 +1,4 @@
 package com.example.cmput301w21t28;
 
 public class Octagon extends Shape {
-    String color = "red";
 }
